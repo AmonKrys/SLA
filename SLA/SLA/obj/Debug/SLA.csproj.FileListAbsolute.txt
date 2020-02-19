@@ -1,0 +1,12 @@
+c:\users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\bin\Debug\SLA.exe.config
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.Properties.Resources.resources
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.csproj.GenerateResource.Cache
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.frm_Cliente.resources
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\bin\Debug\BD_LOCACAO.mdf
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\bin\Debug\BD_LOCACAO_log.ldf
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\bin\Debug\SLA.exe
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\bin\Debug\SLA.pdb
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.exe
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.pdb
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.csprojResolveAssemblyReference.cache
+C:\Users\amon.rkdomeneguet\documents\visual studio 2015\Projects\SLA\SLA\obj\Debug\SLA.frm_Locacao.resources
